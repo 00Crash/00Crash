@@ -64,7 +64,7 @@
 ## 📫 **Contact Me**
 
 <p align="center">
-  <a href="https://github.com/Nentysdevelopment" target="_blank">
+  <a href="https://github.com/00Crash" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://discord.com/users/1084760822573695018" target="_blank">
