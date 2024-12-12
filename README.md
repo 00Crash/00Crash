@@ -77,16 +77,10 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nentysdevelopment&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=00Crash&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nentysdevelopment&theme=radical" alt="GitHub Streak">
-</p>
 
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Nentysdevelopment&theme=radical&bg_color=000000&color=FF0000&line=00FF00&point=FFFFFF" alt="GitHub Activity Graph">
-</p>
 
 <!---
 00Crash/00Crash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
