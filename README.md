@@ -53,7 +53,6 @@
 ## 📖 **Currently Learning**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/.NET-gray?style=for-the-badge&logo=dotnet" alt=".NET">
   <img src="https://img.shields.io/badge/CSHARP-239120?style=for-the-badge&logo=csharp" alt="CSharp">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=FFFFFF" alt="React">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs" alt="Next.js">
