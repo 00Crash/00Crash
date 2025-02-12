@@ -61,9 +61,6 @@
 ## 📫 **Contact Me**
 
 <p align="center">
-  <a href="https://github.com/00Crash" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
   <a href="https://discord.com/users/1084760822573695018" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=FFFFFF" alt="Discord" />
   </a>
