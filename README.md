@@ -2,10 +2,10 @@
 
 <p align="center">
   <a href="https://crsh.dev">
-    <img src="https://img.shields.io/badge/Portfolio-crsh--dev.eu-1f6feb?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-crsh.dev-1f6feb?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
   <br/>
-  <img src="https://img.shields.io/website?url=https%3A%2F%2Fcrsh-dev.eu&up_message=online&down_message=offline&up_color=1f6feb&down_color=d73a49&style=for-the-badge&logo=vercel&logoColor=white" alt="Website status"/>
+  <img src="https://img.shields.io/website?url=https%3A%2F%2Fcrsh.dev&up_message=online&down_message=offline&up_color=1f6feb&down_color=d73a49&style=for-the-badge&logo=vercel&logoColor=white" alt="Website status"/>
 </p>
 
 <p align="center">
