@@ -1,7 +1,7 @@
 <h1 align="center">Crash</h1>
 
 <p align="center">
-  <a href="https://crsh-dev.eu">
+  <a href="https://crsh.dev">
     <img src="https://img.shields.io/badge/Portfolio-crsh--dev.eu-1f6feb?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
   <br/>
