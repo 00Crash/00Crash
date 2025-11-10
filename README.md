@@ -40,7 +40,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Editor-Rider-000000?style=for-the-badge&logo=rider&logoColor=white" alt="Rider"/>
+  <img src="https://img.shields.io/badge/Editor-Rider-000000?style=for-the-badge&logo=rider&logoColor=white" alt="Rider"/>  
+  <img src="https://img.shields.io/badge/Editor-Webstorm-000000?style=for-the-badge&logo=webstorm&logoColor=white" alt="Rider"/>
   <img src="https://img.shields.io/badge/Stack-Web%20Dev-1f6feb?style=for-the-badge&logo=vercel&logoColor=white" alt="Web Dev"/>
 </p>
 
