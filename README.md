@@ -14,7 +14,6 @@
   <img src="https://img.shields.io/badge/Open%20to-Collab-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="Collaboration"/>
 </p>
 
-<!-- Longer blurbs -->
 <p align="center">
   I design and build clean, fast, and accessible web experiences with a strong performance budget and a minimalist aesthetic. <br/>
   The process is simple: research the problem, sketch the UX, craft clean UI, and ship maintainable code. <br/>
@@ -27,7 +26,6 @@
   Open to collaboration on pragmatic, UI‑focused builds and small backend glue where it helps the product.
 </p>
 
-<!-- Core stack badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/Lua-2c2d72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -51,8 +49,6 @@
   </a>
 </p>
 
-
-<!-- Quick links -->
 <p align="center">
   <a href="https://github.com/00Crash">
     <img src="https://img.shields.io/badge/GitHub-00Crash-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
