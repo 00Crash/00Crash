@@ -45,16 +45,6 @@
   <img src="https://img.shields.io/badge/Stack-Web%20Dev-1f6feb?style=for-the-badge&logo=vercel&logoColor=white" alt="Web Dev"/>
 </p>
 
-<!-- Graphs -->
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=00Crash&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=00Crash&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top Languages"/>
-  </a>
-</p>
-
 <p align="center">
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=00Crash&theme=github-compact&bg_color=00000000&color=1f6feb&line=1f6feb&point=1f6feb&hide_border=true&custom_title=Activity%20(Last%2031%20days)" alt="Activity Graph"/>
